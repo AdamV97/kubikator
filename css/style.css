@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Make content area fill the entire browser window */
+html,
+.fullscreen {
+  display: block;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* Center the content in the browser window */
+h2 {
+  /* margin: auto; */
+  text-align: center;
+  width: 100%;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.button{
+  text-align: center !important;
+}
+
+.center_text{
+  text-align: center !important;
+}
+
+.deleteButtons{
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    display: inline-block;
+    border: 0 solid transparent;
+    transition: .3s;
+    box-sizing: border-box;
+    margin-left: 25px;
+}
