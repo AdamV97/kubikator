@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "short_name": "Hello",
+    "name": "Kubikator",
+    "short_name": "Kubi",
     "icons": [{
       "src": "images/kubikator-icon-128.png",
         "sizes": "128x128",
